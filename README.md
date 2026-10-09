@@ -1,6 +1,10 @@
 # 🎵 Music Player
 
 A web-based music search and preview application built with **HTML, CSS, and JavaScript**. Search for songs, explore album artwork, view artist information, and listen to song previews directly in your browser.
+## 🌐 Live Demo
+
+[**Listen to Music with the Music Player**](https://music-player-by-azariya.netlify.app/)
+
 
 ## 📸 Screenshots
 
