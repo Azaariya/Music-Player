@@ -2,6 +2,15 @@
 
 A web-based music search and preview application built with **HTML, CSS, and JavaScript**. Search for songs, explore album artwork, view artist information, and listen to song previews directly in your browser.
 
+## 📸 Screenshots
+
+### Music Search
+
+![Music search results](music-search.png)
+
+### Now Playing
+
+![Selected song playing](now-playing.png)
 ## ✨ Features
 
 * 🔍 **Search Music** — Search for songs using the Deezer API.
